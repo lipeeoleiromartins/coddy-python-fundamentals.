@@ -6,6 +6,7 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 
 - [x] **Módulo 01 - Introdução** (3/3 concluídos)
 - [x] **Módulo 02 - Variáveis e Tipos de Dados** (8/8 concluídos)
+- [x] **Módulo 03 - Operadores Parte 1** (4/4 concluídos)
 
 ## 📚 Módulos Concluídos
 
@@ -23,3 +24,9 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - **06_maestria_booleano.py:** Maestria em valores booleanos
 - **07_variaveis_vazias.py:** Uso do valor nulo (`None`)
 - **08_recapitulacao.py:** Recapitulação de criação e inicialização de variáveis
+
+### 03. Operadores Parte 1
+- **01_operadores_aritmeticos.py:** Operações matemáticas básicas e divisão (`/`)
+- **02_maestria_operadores.py:** Multiplicação de ponto flutuante (`*`)
+- **03_operador_modulo.py:** Resto da divisão com o operador módulo (`%`)
+- **04_atalhos_aritmeticos.py:** Atribuição simplificada (`+=`, `*=`, `-=`)
