@@ -20,6 +20,6 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - **03_strings.py:** Variáveis de texto (`str`)
 - **04_maestria_string.py:** Prática avançada com strings
 - **05_booleano.py:** Variáveis booleanas (`bool`)
-- **06_maestria_booleano.py:** Maestria com booleanos
+- **06_maestria_booleano.py:** Maestria em valores booleanos
 - **07_variaveis_vazias.py:** Uso do valor nulo (`None`)
-- **08_recapitulacao.py:** Recapitulação da criação e inicialização de variáveis
+- **08_recapitulacao.py:** Recapitulação de criação e inicialização de variáveis
