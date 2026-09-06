@@ -5,7 +5,7 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 ## 📊 Progresso
 
 - [x] **Módulo 01 - Introdução** (3/3 concluídos)
-- [x] **Módulo 02 - Variáveis e Tipos de Dados** (5/5 concluídos)
+- [x] **Módulo 02 - Variáveis e Tipos de Dados** (8/8 concluídos)
 
 ## 📚 Módulos Concluídos
 
@@ -20,3 +20,6 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - **03_strings.py:** Variáveis de texto (`str`)
 - **04_maestria_string.py:** Prática avançada com strings
 - **05_booleano.py:** Variáveis booleanas (`bool`)
+- **06_maestria_booleano.py:** Maestria com booleanos
+- **07_variaveis_vazias.py:** Uso do valor nulo (`None`)
+- **08_recapitulacao.py:** Recapitulação da criação e inicialização de variáveis
