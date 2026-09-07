@@ -6,7 +6,7 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 
 - [x] **Módulo 01 - Introdução** (3/3 concluídos)
 - [x] **Módulo 02 - Variáveis e Tipos de Dados** (8/8 concluídos)
-- [x] **Módulo 03 - Operadores Parte 1** (4/4 concluídos)
+- [x] **Módulo 03 - Operadores Parte 1** (6/6 concluídos)
 
 ## 📚 Módulos Concluídos
 
@@ -30,3 +30,5 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - **02_maestria_operadores.py:** Multiplicação de ponto flutuante (`*`)
 - **03_operador_modulo.py:** Resto da divisão com o operador módulo (`%`)
 - **04_atalhos_aritmeticos.py:** Atribuição simplificada (`+=`, `*=`, `-=`)
+- **05_maestria_atalhos_aritmeticos.py:** Prática avançada de atalhos (`/=`, `+=`, `*=`)
+- **06_recapitulacao_matematica.py:** Recapitulação de matemática simples e multiplicação
