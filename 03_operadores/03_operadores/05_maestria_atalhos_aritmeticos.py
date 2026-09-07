@@ -1,0 +1,4 @@
+score = 100
+score /= 2
+score += 10
+score *= 3
