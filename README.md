@@ -6,7 +6,8 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 
 - [x] **Módulo 01 - Introdução** (3/3 concluídos)
 - [x] **Módulo 02 - Variáveis e Tipos de Dados** (8/8 concluídos)
-- [x] **Módulo 03 - Operadores Parte 1** (6/6 concluídos)
+- [x] **Módulo 03 - Operadores Parte 1** (7/7 concluídos)
+- [ ] **Módulo 04 - Operadores Parte 2** (1 concluído)
 
 ## 📚 Módulos Concluídos
 
@@ -32,3 +33,7 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - **04_atalhos_aritmeticos.py:** Atribuição simplificada (`+=`, `*=`, `-=`)
 - **05_maestria_atalhos_aritmeticos.py:** Prática avançada de atalhos (`/=`, `+=`, `*=`)
 - **06_recapitulacao_matematica.py:** Recapitulação de matemática simples e multiplicação
+- **07_operadores_comparacao.py:** Uso de operadores de comparação (`>`)
+
+### 04. Operadores Parte 2
+- **01_operadores_logicos_parte1.py:** Validação de condições lógicas com `and` e `>=`
