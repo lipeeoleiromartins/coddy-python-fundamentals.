@@ -7,7 +7,8 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - [x] **Módulo 01 - Introdução** (3/3 concluídos)
 - [x] **Módulo 02 - Variáveis e Tipos de Dados** (8/8 concluídos)
 - [x] **Módulo 03 - Operadores Parte 1** (7/7 concluídos)
-- [ ] **Módulo 04 - Operadores Parte 2** (2 concluídos)
+- [x] **Módulo 04 - Operadores Parte 2** (2/2 concluídos)
+- [x] **Módulo 05 - Tomada de Decisão** (5/5 concluídos)
 
 ---
 
@@ -44,3 +45,11 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 
 * **01_operadores_logicos_parte1.py**: Validação de condições lógicas com `and` e `>=`
 * **02_operadores_logicos_parte2.py**: Exercícios práticos com operadores `and`, `or` e `not`
+
+### 05. Tomada de Decisão
+
+* **01_estrutura_if.py**: Estrutura condicional simples `if`
+* **02_maestria_if.py**: Prática avançada com condições lógicas no `if`
+* **03_if_else.py**: Controle de fluxo com `if`, `elif` e `else` (classificação de vento)
+* **04_maestria_if_else.py**: Encadeamento de condições para faixas de temperatura
+* **05_recapitulacao_calculadora.py**: Calculadora simples utilizando operadores lógicos e condicionais
