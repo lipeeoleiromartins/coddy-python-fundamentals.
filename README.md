@@ -9,6 +9,7 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - [x] **Módulo 03 - Operadores Parte 1** (7/7 concluídos)
 - [x] **Módulo 04 - Operadores Parte 2** (2/2 concluídos)
 - [x] **Módulo 05 - Tomada de Decisão** (5/5 concluídos)
+- [x] **Módulo 06 - Entrada e Saída Básica** (5/5 concluídos)
 
 ---
 
@@ -53,3 +54,11 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 * **03_if_else.py**: Controle de fluxo com `if`, `elif` e `else` (classificação de vento)
 * **04_maestria_if_else.py**: Encadeamento de condições para faixas de temperatura
 * **05_recapitulacao_calculadora.py**: Calculadora simples utilizando operadores lógicos e condicionais
+
+### 06. Entrada e Saída Básica
+
+* **01_saida.py**: Impressão de mensagens simples na saída padrão com `print()`
+* **02_saida_com_variaveis.py**: Formatando saídas utilizando f-strings com dados de variáveis
+* **03_entrada.py**: Leitura de dados inseridos pelo utilizador através de `input()`
+* **04_maestria_input.py**: Manipulação de múltiplas entradas e conversão para cálculo de idade futura
+* **05_conversao_de_tipos.py**: Conversão explícita de tipos (`float`) e operações matemáticas com entradas do utilizador
