@@ -9,11 +9,12 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - [x] **Módulo 03 - Operadores Parte 1** (7/7 concluídos)
 - [x] **Módulo 04 - Operadores Parte 2** (2/2 concluídos)
 - [x] **Módulo 05 - Tomada de Decisão** (5/5 concluídos)
-- [x] **Módulo 06 - Entrada e Saída Básica** (5/5 concluídos)
+- [x] **Módulo 06 - Entrada e Saída Básica** (7/7 concluídos)
+- [ ] **Projeto: Calculadora de Divisão de Conta** (Em andamento - Faltando a última atividade)
 
 ---
 
-## 📚 Módulos Concluídos
+## 📚 Módulos e Projetos Concluídos
 
 ### 01. Introdução
 
@@ -62,3 +63,12 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 * **03_entrada.py**: Leitura de dados inseridos pelo utilizador através de `input()`
 * **04_maestria_input.py**: Manipulação de múltiplas entradas e conversão para cálculo de idade futura
 * **05_conversao_de_tipos.py**: Conversão explícita de tipos (`float`) e operações matemáticas com entradas do utilizador
+* **06_recap_ate_120.py**: Recapitulação de entrada e cálculo de anos restantes até 120
+* **07_recap_verdadeiro_falso.py**: Conversão de entrada numérica para exibição de "T" ou "F"
+
+### 07. Projeto: Calculadora de Divisão de Conta (Em andamento)
+
+* **01_mensagem_boas_vindas.py**: Exibição do título inicial do programa ("Bill Split Calculator")
+* **02_obtencao_entrada.py**: Leitura de valores de ponto flutuante (`float`) para a conta e gorjeta
+* **03_calculando_gorjeta.py**: Implementação matemática do cálculo de percentagem e valor total
+* **04_dividindo_conta_final.py**: Divisão final do valor total pelo número de pessoas (`int`)
