@@ -10,7 +10,8 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 - [x] **Módulo 04 - Operadores Parte 2** (2/2 concluídos)
 - [x] **Módulo 05 - Tomada de Decisão** (5/5 concluídos)
 - [x] **Módulo 06 - Entrada e Saída Básica** (7/7 concluídos)
-- [ ] **Projeto: Calculadora de Divisão de Conta** (Em andamento - Faltando a última atividade)
+- [x] **Projeto: Calculadora de Divisão de Conta** (Concluído)
+- [ ] **Módulo 08 - Laços de Repetição** (Em andamento)
 
 ---
 
@@ -66,9 +67,17 @@ Repositório para registrar o progresso dos exercícios práticos realizados na 
 * **06_recap_ate_120.py**: Recapitulação de entrada e cálculo de anos restantes até 120
 * **07_recap_verdadeiro_falso.py**: Conversão de entrada numérica para exibição de "T" ou "F"
 
-### 07. Projeto: Calculadora de Divisão de Conta (Em andamento)
+### 07. Projeto: Calculadora de Divisão de Conta (Concluído)
 
 * **01_mensagem_boas_vindas.py**: Exibição do título inicial do programa ("Bill Split Calculator")
 * **02_obtencao_entrada.py**: Leitura de valores de ponto flutuante (`float`) para a conta e gorjeta
 * **03_calculando_gorjeta.py**: Implementação matemática do cálculo de percentagem e valor total
 * **04_dividindo_conta_final.py**: Divisão final do valor total pelo número de pessoas (`int`)
+* **05_saida_formatada.py**: Formatação profissional da saída utilizando f-strings com os resultados finais
+
+### 08. Laços de Repetição (Em andamento)
+
+* **01_loop_for.py**: Utilização de laços `for` e `range` para iteração numérica formatada
+* **02_maestria_for.py**: Contagem de números pares utilizando `for` combinados com condições `if` e operador módulo (`%`)
+* **03_loop_while.py**: Estrutura de repetição condicional `while` com divisão iterativa de números decimais
+* **04_maestria_while.py**: Prática avançada de laços `while` com limiares de condição decrescentes
